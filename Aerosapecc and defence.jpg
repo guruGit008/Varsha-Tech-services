@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)https://www.tirangaaerospace.com/index.html -->
+<html class="js no-touch history boxshadow csstransforms3d csstransitions video svg webkit chrome win js sticky-header-enabled sticky-header-active" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+		<!-- Basic -->
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+
+		<title>Tiranga Aerospace | Connected to quality &amp; Commited to nation</title>	
+
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<meta name="author" content="Zopzoi Technologies">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="https://www.tirangaaerospace.com/img/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" href="https://www.tirangaaerospace.com/img/apple-touch-icon.png">
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<!-- Web Fonts  -->
+		<link href="./Aerosapecc and defence_files/css" rel="stylesheet" type="text/css">
+
+		<!-- Vendor CSS -->
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/bootstrap.min.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/font-awesome.min.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/animate.min.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/simple-line-icons.min.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/owl.carousel.min.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/owl.theme.default.min.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/magnific-popup.min.css">
+
+		<!-- Theme CSS -->
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/theme.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/theme-elements.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/theme-blog.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/theme-shop.css">
+
+		<!-- Current Page CSS -->
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/settings.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/layers.css">
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/navigation.css">
+
+		<!-- Skin CSS -->
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/skin-finance.css"> 
+
+		<!-- Demo CSS -->
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/demo-finance.css">
+
+		<!-- Theme Custom CSS -->
+		<link rel="stylesheet" href="./Aerosapecc and defence_files/custom.css">
+
+		<!-- Head Libs -->
+		<script src="./Aerosapecc and defence_files/modernizr.min.js.download"></script>
+
+	</head>
+	<body data-spy="scroll" data-target="#navSecondary" data-offset="170">
+
+		<div class="body">
+			<header id="header" class="header-narrow" data-plugin-options="{&#39;stickyEnabled&#39;: true, &#39;stickyEnableOnBoxed&#39;: true, &#39;stickyEnableOnMobile&#39;: true, &#39;stickyStartAt&#39;: 0, &#39;stickySetTop&#39;: &#39;0&#39;, &#39;stickyChangeLogo&#39;: false}" style="min-height: 140px;">
+				<div class="header-body" style="top: 0px;">
+					<div class="header-container container">
+						<div class="header-row">
+							<div class="header-column">
+								<div class="header-logo">
+									<a href="https://www.tirangaaerospace.com/index.html">
+										<img alt="Porto Finance" width="200" height="100" src="./Aerosapecc and defence_files/logo.png">
+									</a>
+								</div>
+							</div>
+							<div class="header-column">
+								<div class="header-row">
+									<div class="header-nav">
+										<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
+											<i class="fa fa-bars"></i>
+										</button>
+										<a href="tel:+08048905416" class="text-color-dark text-decoration-none hidden-xs" target="_blank">
+											<span class="custom-toll-free pull-right font-weight-bold mt-xs">
+												<i class="fa fa-mobile"></i>
+												<span class="toll-free-title text-uppercase font-weight-normal">Reach Us</span>
+												<span class="toll-free-number font-weight-bold">+91 80489 05416</span>
+											</span>
+										</a>
+										<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 custom-header-nav-main-dark-style collapse">
+											<nav>
+												<ul class="nav nav-pills" id="mainNav">
+													<li class="active">
+														<a href="https://www.tirangaaerospace.com/index.html">
+															Home
+														</a>
+													</li>
+													<li class="">
+														<a href="https://www.tirangaaerospace.com/aerospace-about.html">
+															About Us
+														</a>
+													</li>
+													<li class="">
+														<a href="https://www.tirangaaerospace.com/aerospace-products.html">
+															Products
+														</a>
+													</li>
+													<li class="">
+														<a href="https://www.tirangaaerospace.com/clients.html">
+															Clients
+														</a>
+													</li>
+													<li class="">
+														<a href="https://www.tirangaaerospace.com/news.html">
+															NEWS
+														</a>
+													</li>
+													<li class="">
+														<a href="https://www.tirangaaerospace.com/career.html">
+															Career
+														</a>
+													</li>
+													<li class="">
+														<a href="https://www.tirangaaerospace.com/aerospace-contact.html">
+															Contact
+														</a>
+													</li>
+												</ul>
+											</nav>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div role="main" class="main">
+				
+			<div class="forcefullwidth_wrapper_tp_banner" id="revolutionSlider_forcefullwidth" style="position:relative;width:100%;height:auto;margin-top:0px;margin-bottom:0px"><div class="slider-container rev_slider_wrapper" style="height: 486.2px; margin-top: 0px; margin-bottom: 0px; position: absolute; max-height: none; overflow: visible; width: 1519px; left: 0px;">
+				<div id="revolutionSlider" class="slider rev_slider manual revslider-initialised tp-simpleresponsive" style="max-height: none; margin-top: 0px; margin-bottom: 0px; height: 100%;" data-slideactive="rs-506440">
+					<ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;">
+						<li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+							<div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="div/s2.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg " style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;div/s2.png&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="div/s2.png"></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 196px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><h1 class="tp-caption text-uppercase font-weight-bold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="-40" data-start="800" data-fontsize="40" style="letter-spacing: -2px; visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 33px; border-width: 0px; margin: 0px; padding: 0px; font-weight: 700; font-size: 30px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -105, 0, 1); transform-origin: 50% 50% 0px;" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-171666227">Space Segments Products</h1></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 234px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption text-uppercase" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="0" data-start="1200" data-fontsize="22" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-703542241" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 18px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -60, 0, 1); transform-origin: 50% 50% 0px;">We can help you</div></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 275px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><a class="tp-caption btn btn-primary custom-btn-style-1 text-uppercase font-weight-semibold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="70" data-start="1500" data-fontsize="[&#39;12&#39;, &#39;12&#39;, &#39;12&#39;, &#39;22&#39;]" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-423254484" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 10px 19px; letter-spacing: 0px; font-weight: 600; font-size: 9px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -123, 0, 1); transform-origin: 50% 50% 0px;">Learn More</a></div></div></div>
+						</li>
+						<li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+							<div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="div/s3.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg " style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;div/s3.png&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="div/s3.png"></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 196px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><h1 class="tp-caption text-uppercase font-weight-bold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="-40" data-start="800" data-fontsize="40" style="letter-spacing: -2px; visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 33px; border-width: 0px; margin: 0px; padding: 0px; font-weight: 700; font-size: 30px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -105, 0, 1); transform-origin: 50% 50% 0px;" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-151208162">Space Segments Products</h1></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 234px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption text-uppercase" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="0" data-start="1200" data-fontsize="22" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-881604870" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 18px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -60, 0, 1); transform-origin: 50% 50% 0px;">We can help you</div></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 275px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><a class="tp-caption btn btn-primary custom-btn-style-1 text-uppercase font-weight-semibold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="70" data-start="1500" data-fontsize="[&#39;12&#39;, &#39;12&#39;, &#39;12&#39;, &#39;22&#39;]" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-832092174" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 10px 19px; letter-spacing: 0px; font-weight: 600; font-size: 9px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -123, 0, 1); transform-origin: 50% 50% 0px;">Learn More</a></div></div></div>
+						</li>
+						<li data-transition="fade" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1; background-color: rgba(255, 255, 255, 0);">
+							<div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="div/s6.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg " style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;div/s6.png&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="div/s6.png"></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 333px; top: 196px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><h1 class="tp-caption text-uppercase font-weight-bold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="-40" data-start="800" data-fontsize="40" style="letter-spacing: -2px; visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 33px; border-width: 0px; margin: 0px; padding: 0px; font-weight: 700; font-size: 30px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-92645185">Defence Segments Products</h1></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 333px; top: 234px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption text-uppercase" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="0" data-start="1200" data-fontsize="22" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-326435633" style="visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 18px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">We can help you</div></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 333px; top: 275px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><a class="tp-caption btn btn-primary custom-btn-style-1 text-uppercase font-weight-semibold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="70" data-start="1500" data-fontsize="[&#39;12&#39;, &#39;12&#39;, &#39;12&#39;, &#39;22&#39;]" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-749171016" style="visibility: inherit; transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 10px 19px; letter-spacing: 0px; font-weight: 600; font-size: 9px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">Learn More</a></div></div></div>
+						</li>
+						<li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+							<div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="div/s7.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg " style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;div/s7.png&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="div/s7.png"></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 196px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><h1 class="tp-caption text-uppercase font-weight-bold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="-40" data-start="800" data-fontsize="40" style="letter-spacing: -2px; visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 33px; border-width: 0px; margin: 0px; padding: 0px; font-weight: 700; font-size: 30px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -105, 0, 1); transform-origin: 50% 50% 0px;" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-720314184">Defence Segments Products</h1></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 234px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption text-uppercase" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="0" data-start="1200" data-fontsize="22" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-808019493" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 18px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -60, 0, 1); transform-origin: 50% 50% 0px;">We can help you</div></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 275px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><a class="tp-caption btn btn-primary custom-btn-style-1 text-uppercase font-weight-semibold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="70" data-start="1500" data-fontsize="[&#39;12&#39;, &#39;12&#39;, &#39;12&#39;, &#39;22&#39;]" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-793927876" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 10px 19px; letter-spacing: 0px; font-weight: 600; font-size: 9px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -123, 0, 1); transform-origin: 50% 50% 0px;">Learn More</a></div></div></div>
+						</li>
+						<li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+							<div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="div/s5.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg " style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;div/s5.png&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="div/s5.png"></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 196px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><h1 class="tp-caption text-uppercase font-weight-bold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="-40" data-start="800" data-fontsize="40" style="letter-spacing: -2px; visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 33px; border-width: 0px; margin: 0px; padding: 0px; font-weight: 700; font-size: 30px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -105, 0, 1); transform-origin: 50% 50% 0px;" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-526525320">Naval Segments Products</h1></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 234px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption text-uppercase" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="0" data-start="1200" data-fontsize="22" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-94141285" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 18px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -60, 0, 1); transform-origin: 50% 50% 0px;">We can help you</div></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 275px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><a class="tp-caption btn btn-primary custom-btn-style-1 text-uppercase font-weight-semibold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="70" data-start="1500" data-fontsize="[&#39;12&#39;, &#39;12&#39;, &#39;12&#39;, &#39;22&#39;]" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-434493058" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 10px 19px; letter-spacing: 0px; font-weight: 600; font-size: 9px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -123, 0, 1); transform-origin: 50% 50% 0px;">Learn More</a></div></div></div>
+						</li>
+						<li data-transition="fade" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0; background-color: rgba(255, 255, 255, 0);">
+							<div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="div/s4.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg " style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;div/s4.png&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="div/s4.png"></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 196px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><h1 class="tp-caption text-uppercase font-weight-bold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="-40" data-start="800" data-fontsize="40" style="letter-spacing: -2px; visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 33px; border-width: 0px; margin: 0px; padding: 0px; font-weight: 700; font-size: 30px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -105, 0, 1); transform-origin: 50% 50% 0px;" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-193752322">SATCOM Segments Products</h1></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 234px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption text-uppercase" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="0" data-start="1200" data-fontsize="22" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-564977503" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 18px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -60, 0, 1); transform-origin: 50% 50% 0px;">We can help you</div></div></div></div>
+
+							<div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 333px; top: 275px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><a class="tp-caption btn btn-primary custom-btn-style-1 text-uppercase font-weight-semibold" data-x="left" data-hoffset="[&#39;15&#39;, &#39;15&#39;, &#39;35&#39;, &#39;35&#39;]" data-y="center" data-voffset="70" data-start="1500" data-fontsize="[&#39;12&#39;, &#39;12&#39;, &#39;12&#39;, &#39;22&#39;]" data-transform_in="y:[-300%];opacity:0;s:500;" id="layer-295654406" style="visibility: hidden; transition: none 0s ease 0s; text-align: inherit; line-height: 13px; border-width: 0px; margin: 0px; padding: 10px 19px; letter-spacing: 0px; font-weight: 600; font-size: 9px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 0.0001; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -123, 0, 1); transform-origin: 50% 50% 0px;">Learn More</a></div></div></div>
+						</li>
+					</ul>
+				<div class="tp-loader off" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div><div class="tp-bannertimer" style="visibility: hidden; width: 34.47%; transform: translate3d(0px, 0px, 0px);"></div><div class="tp-leftarrow tparrows noSwipe" style="top: 50%; transform: matrix(1, 0, 0, 1, 10, -20); left: 0px; visibility: hidden; opacity: 0;"></div><div class="tp-rightarrow tparrows noSwipe" style="top: 50%; transform: matrix(1, 0, 0, 1, -50, -20); left: 100%; visibility: hidden; opacity: 0;"></div></div>
+			</div><div class="tp-fullwidth-forcer" style="width: 100%; height: 486.2px;"></div></div>
+
+			<div id="home-intro" class="home-intro custom-home-intro background-color-secondary m-none">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8">
+							<p class="text-color-light mb-xs mt-xs">
+								The fastest way to find quality products with the leader in Aerospace Segment.
+								<span class="text-color-primary">Learn more about our company</span>
+							</p>
+						</div>
+						<div class="col-md-4">
+							<a href="https://www.tirangaaerospace.com/index.html#" class="btn btn-primary custom-btn-style-1 text-uppercase font-weight-semibold pull-right mt-sm">read more</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 p-none">
+						<section class="parallax section section-parallax match-height custom-parallax-bg-pos-left custom-sec-left m-none" data-plugin-parallax="" data-plugin-options="{&#39;speed&#39;: 1.5, &#39;horizontalPosition&#39;: &#39;100%&#39;}" data-image-src="img/demos/finance/parallax/parallax-1.png" style="min-height: 315px; position: relative; overflow: hidden; height: 401.337px;"><div class="parallax-background" style="background-image: url(&quot;img/demos/finance/parallax/parallax-1.png&quot;); background-size: cover; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; transform: translate3d(0px, 77.1429px, 0px); background-position-x: 100%;"></div>
+						</section>
+					</div>
+					<div class="col-md-6 p-none">
+						<section class="section section-no-border match-height m-none" style="height: 401.337px;">
+							<div class="row m-none">
+								<div class="col-half-section col-half-section-left">
+									<h2 class="text-uppercase font-weight-bold">Aerospace &amp; Defense</h2>
+									<p class="text-md text-color-dark">What we can do for you</p>
+									<p class="custom-text-color-1 mb-xlg">Tiranga Aerospace is a specialized electronics distributor providing a broad range of electronic and electrical components. We supply high-quality products and services to leading aerospace, military, commercial manufacturers, and OEMs worldwide. We will help you design, implement and manage the development of customized solutions to meet your evolving needs.</p>
+									<a href="https://www.tirangaaerospace.com/aerospace.html" class="btn btn-borders btn-primary custom-btn-style-2 font-weight-semibold text-color-dark text-uppercase mt-sm">Read More</a>
+								</div>
+							</div>
+						</section>
+					</div>
+				</div>
+				<div class="row custom-sm-flex-order">
+					<div class="col-md-6 p-none">
+						<section class="section section-no-border match-height m-none" style="height: 353.337px;">
+							<div class="row m-none">
+								<div class="col-half-section col-half-section-right custom-text-align-right">
+									<h2 class="text-uppercase font-weight-bold">Space Industry</h2>
+									<p class="text-md text-color-dark">What we can do for you</p>
+									<p class="custom-text-color-1 mb-xlg">Tiranga Aerospace is a one-stop electronic distributor providing a broad array of space level electronic and electrical components. We supply high reliability electronics products and value-added services to leading space manufacturers and OEMs globally.</p>
+									<a href="https://www.tirangaaerospace.com/space.html" class="btn btn-borders btn-primary custom-btn-style-2 font-weight-semibold text-color-dark text-uppercase mt-sm">Read More</a>
+								</div>
+							</div>
+						</section>
+					</div>
+					<div class="col-md-6 p-none">
+						<section class="parallax section section-parallax match-height m-none" data-plugin-parallax="" data-plugin-options="{&#39;speed&#39;: 1.5, &#39;horizontalPosition&#39;: &#39;100%&#39;}" data-image-src="img/demos/finance/parallax/parallax-2.png" style="min-height: 315px; position: relative; overflow: hidden; height: 353.337px;"><div class="parallax-background" style="background-image: url(&quot;img/demos/finance/parallax/parallax-2.png&quot;); background-size: cover; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; transform: translate3d(0px, -37.525px, 0px); background-position-x: 100%;"></div>
+						</section>
+					</div>
+				</div>
+				<div class="row custom-sm-flex-order center">
+					<div class="col-md-6 p-none">
+						<img src="./Aerosapecc and defence_files/msme.png" style="padding-top : 20px; padding-bottom: 10px;">
+						<h3>Registered with the Ministry of Micro, Small and Medium Enterprise</h3>
+					</div>
+					<div class="col-md-6 p-none">
+						<img src="./Aerosapecc and defence_files/iso.png" style="padding-top : 20px; padding-bottom: 10px;">
+						<h3>ISO 9001 : 2015 Certified Company</h3>
+					</div>
+				</div>
+			</div>
+
+			<!--
+
+			<section class="section section-no-border section-primary custom-section-spacement-1 m-none">
+				<div class="container">
+					<div class="row">
+						<div class="counters custom-counters counters-text-light">
+							<div class="col-md-2 col-sm-4 col-md-offset-2 custom-sm-margin-bottom-1">
+								<div class="counter center">
+									<span data-to="18">0</span>
+									<span class="custom-text-color-2">Years in Business</span>
+								</div>
+							</div>
+							<div class="col-md-2 col-sm-4 col-md-offset-1 custom-sm-margin-bottom-1">
+								<div class="counter center">
+									<span data-to="200" data-append="+">0</span>
+									<span class="custom-text-color-2">Clients and Partners</span>
+								</div>
+							</div>
+							<div class="col-md-2 col-sm-4 col-md-offset-1">
+								<div class="counter center">
+									
+									<span data-to="15">0</span>
+									<span class="custom-text-color-2">Awards</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			 
+
+
+			<section class="section section-no-border custom-section-spacement-1 background-color-light m-none">
+				<div class="container">
+					<div class="row center">
+						<div class="col-md-12">
+							<h2 class="text-uppercase text-color-dark font-weight-bold">Invested your money with real Professionals</h2>
+							<p class="text-md text-color-dark mb-xlg">Meet our Team of Specialists</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-3 col-sm-6">
+							<a href="#team-content-1" class="popup-with-zoom-anim text-decoration-none">
+								<span class="thumb-info custom-thumb-info-1 thumb-info-no-borders">
+									<span class="thumb-info-wrapper p-none">
+										<img src="img/demos/finance/team/team-1.jpg" class="img-responsive" alt="">
+									</span>
+									<span class="thumb-info-caption background-color-light">
+										<span class="thumb-info-caption-text">
+											<span class="thumb-info-caption-title text-uppercase text-color-dark font-weight-bold">John Doe</span>
+											<p>CEO</p>
+											<span class="custom-thumb-info-caption-plus background-color-primary text-color-light">+</span>
+										</span>
+									</span>
+								</span>
+							</a>
+							<div id="team-content-1" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
+								<div class="row">
+									<div class="col-md-4 col-sm-4">
+										<img src="img/demos/finance/team/team-1.jpg" class="img-responsive mb-lg" alt="">
+										<ul class="social-icons custom-social-icons center">
+											<li class="social-icons-facebook">
+												<a href="http://www.facebook.com/" target="_blank" title="Facebook">
+													<i class="fa fa-facebook"></i>
+												</a>
+											</li>
+											<li class="social-icons-twitter">
+												<a href="http://www.twitter.com/" target="_blank" title="Twitter">
+													<i class="fa fa-twitter"></i>
+												</a>
+											</li>
+											<li class="social-icons-google">
+												<a href="http://www.plus.google.com/" target="_blank" title="Twitter">
+													<i class="fa fa-google-plus" aria-hidden="true"></i>
+												</a>
+											</li>
+											<li class="social-icons-linkedin">
+												<a href="http://www.linkedin.com/" target="_blank" title="Linkedin">
+													<i class="fa fa-linkedin"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col-md-8 col-sm-8">
+										<h2 class="font-weight-semibold text-color-dark mb-xs">John Doe</h2>
+										<p class="custom-font-style-1 font-weight-semibold">Founder of Porto</p>
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at elementum lacus. Fusce luctus urna ac mauris consequat, ac eleifend odio imperdiet. Sed euismod tempor orci, ullamcorper accumsan justo semper eu. Donec venenatis elit et euismod iaculis. Integer vehicula imperdiet metus at convallis. Donec ullamcorper at nunc lobortis ultricies. Nam tincidunt.</p>	
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In imperdiet faucibus congue. Donec at volutpat nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas risus dui.</p>
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque at purus et auctor. Donec eget risus vitae lacus aliquam porttitor. Morbi pellentesque fermentum ex, nec sagittis augue mollis sit amet. Pellentesque vitae metus porttitor ipsum finibus tincidunt. Praesent sit amet fringilla nisi, in porttitor eros. Vivamus iaculis mattis purus, vitae dictum felis tempor nec. Maecenas eget fermentum turpis. Fusce dignissim leo sit amet aliquet facilisis. Sed erat arcu, ultricies a justo vitae, elementum egestas justo. Nunc bibendum, ex id dapibus fringilla, nisl quam tincidunt ligula, at luctus quam magna nec sem. Suspendisse vitae tempus velit, nec congue sapien.</p>		
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<a href="#team-content-2" class="popup-with-zoom-anim text-decoration-none">
+								<span class="thumb-info custom-thumb-info-1 thumb-info-no-borders">
+									<span class="thumb-info-wrapper p-none">
+										<img src="img/demos/finance/team/team-2.jpg" class="img-responsive" alt="">
+									</span>
+									<span class="thumb-info-caption background-color-light">
+										<span class="thumb-info-caption-text">
+											<span class="thumb-info-caption-title text-uppercase text-color-dark font-weight-bold">Tom Doe</span>
+											<p>Director of Investments</p>
+											<span class="custom-thumb-info-caption-plus background-color-primary text-color-light">+</span>
+										</span>
+									</span>
+								</span>
+							</a>
+							<div id="team-content-2" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
+								<div class="row">
+									<div class="col-md-4 col-sm-4">
+										<img src="img/demos/finance/team/team-2.jpg" class="img-responsive mb-lg" alt="">
+										<ul class="social-icons custom-social-icons center">
+											<li class="social-icons-facebook">
+												<a href="http://www.facebook.com/" target="_blank" title="Facebook">
+													<i class="fa fa-facebook"></i>
+												</a>
+											</li>
+											<li class="social-icons-twitter">
+												<a href="http://www.twitter.com/" target="_blank" title="Twitter">
+													<i class="fa fa-twitter"></i>
+												</a>
+											</li>
+											<li class="social-icons-google">
+												<a href="http://www.plus.google.com/" target="_blank" title="Twitter">
+													<i class="fa fa-google-plus" aria-hidden="true"></i>
+												</a>
+											</li>
+											<li class="social-icons-linkedin">
+												<a href="http://www.linkedin.com/" target="_blank" title="Linkedin">
+													<i class="fa fa-linkedin"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col-md-8 col-sm-8">
+										<h2 class="font-weight-semibold text-color-dark mb-xs">John Doe</h2>
+										<p class="custom-font-style-1 font-weight-semibold">Founder of Porto</p>
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at elementum lacus. Fusce luctus urna ac mauris consequat, ac eleifend odio imperdiet. Sed euismod tempor orci, ullamcorper accumsan justo semper eu. Donec venenatis elit et euismod iaculis. Integer vehicula imperdiet metus at convallis. Donec ullamcorper at nunc lobortis ultricies. Nam tincidunt.</p>	
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In imperdiet faucibus congue. Donec at volutpat nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas risus dui.</p>
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque at purus et auctor. Donec eget risus vitae lacus aliquam porttitor. Morbi pellentesque fermentum ex, nec sagittis augue mollis sit amet. Pellentesque vitae metus porttitor ipsum finibus tincidunt. Praesent sit amet fringilla nisi, in porttitor eros. Vivamus iaculis mattis purus, vitae dictum felis tempor nec. Maecenas eget fermentum turpis. Fusce dignissim leo sit amet aliquet facilisis. Sed erat arcu, ultricies a justo vitae, elementum egestas justo. Nunc bibendum, ex id dapibus fringilla, nisl quam tincidunt ligula, at luctus quam magna nec sem. Suspendisse vitae tempus velit, nec congue sapien.</p>		
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<a href="#team-content-3" class="popup-with-zoom-anim text-decoration-none">
+								<span class="thumb-info custom-thumb-info-1 thumb-info-no-borders custom-rm-mb">
+									<span class="thumb-info-wrapper p-none">
+										<img src="img/demos/finance/team/team-3.jpg" class="img-responsive" alt="">
+									</span>
+									<span class="thumb-info-caption background-color-light">
+										<span class="thumb-info-caption-text">
+											<span class="thumb-info-caption-title text-uppercase text-color-dark font-weight-bold">Josh Doe</span>
+											<p>Chief officer</p>
+											<span class="custom-thumb-info-caption-plus background-color-primary text-color-light">+</span>
+										</span>
+									</span>
+								</span>
+							</a>
+							<div id="team-content-3" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
+								<div class="row">
+									<div class="col-md-4 col-sm-4">
+										<img src="img/demos/finance/team/team-3.jpg" class="img-responsive mb-lg" alt="">
+										<ul class="social-icons custom-social-icons center">
+											<li class="social-icons-facebook">
+												<a href="http://www.facebook.com/" target="_blank" title="Facebook">
+													<i class="fa fa-facebook"></i>
+												</a>
+											</li>
+											<li class="social-icons-twitter">
+												<a href="http://www.twitter.com/" target="_blank" title="Twitter">
+													<i class="fa fa-twitter"></i>
+												</a>
+											</li>
+											<li class="social-icons-google">
+												<a href="http://www.plus.google.com/" target="_blank" title="Twitter">
+													<i class="fa fa-google-plus" aria-hidden="true"></i>
+												</a>
+											</li>
+											<li class="social-icons-linkedin">
+												<a href="http://www.linkedin.com/" target="_blank" title="Linkedin">
+													<i class="fa fa-linkedin"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col-md-8 col-sm-8">
+										<h2 class="font-weight-semibold text-color-dark mb-xs">John Doe</h2>
+										<p class="custom-font-style-1 font-weight-semibold">Founder of Porto</p>
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at elementum lacus. Fusce luctus urna ac mauris consequat, ac eleifend odio imperdiet. Sed euismod tempor orci, ullamcorper accumsan justo semper eu. Donec venenatis elit et euismod iaculis. Integer vehicula imperdiet metus at convallis. Donec ullamcorper at nunc lobortis ultricies. Nam tincidunt.</p>	
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In imperdiet faucibus congue. Donec at volutpat nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas risus dui.</p>
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque at purus et auctor. Donec eget risus vitae lacus aliquam porttitor. Morbi pellentesque fermentum ex, nec sagittis augue mollis sit amet. Pellentesque vitae metus porttitor ipsum finibus tincidunt. Praesent sit amet fringilla nisi, in porttitor eros. Vivamus iaculis mattis purus, vitae dictum felis tempor nec. Maecenas eget fermentum turpis. Fusce dignissim leo sit amet aliquet facilisis. Sed erat arcu, ultricies a justo vitae, elementum egestas justo. Nunc bibendum, ex id dapibus fringilla, nisl quam tincidunt ligula, at luctus quam magna nec sem. Suspendisse vitae tempus velit, nec congue sapien.</p>		
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<a href="#team-content-4" class="popup-with-zoom-anim text-decoration-none">
+								<span class="thumb-info custom-thumb-info-1 thumb-info-no-borders custom-rm-mb-last">
+									<span class="thumb-info-wrapper p-none">
+										<img src="img/demos/finance/team/team-4.jpg" class="img-responsive" alt="">
+									</span>
+									<span class="thumb-info-caption background-color-light">
+										<span class="thumb-info-caption-text">
+											<span class="thumb-info-caption-title text-uppercase text-color-dark font-weight-bold">Alan Doe</span>
+											<p>Risk Analyst</p>
+											<span class="custom-thumb-info-caption-plus background-color-primary text-color-light">+</span>
+										</span>
+									</span>
+								</span>
+							</a>
+							<div id="team-content-4" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
+								<div class="row">
+									<div class="col-md-4 col-sm-4">
+										<img src="img/demos/finance/team/team-4.jpg" class="img-responsive mb-lg" alt="">
+										<ul class="social-icons custom-social-icons center">
+											<li class="social-icons-facebook">
+												<a href="http://www.facebook.com/" target="_blank" title="Facebook">
+													<i class="fa fa-facebook"></i>
+												</a>
+											</li>
+											<li class="social-icons-twitter">
+												<a href="http://www.twitter.com/" target="_blank" title="Twitter">
+													<i class="fa fa-twitter"></i>
+												</a>
+											</li>
+											<li class="social-icons-google">
+												<a href="http://www.plus.google.com/" target="_blank" title="Twitter">
+													<i class="fa fa-google-plus" aria-hidden="true"></i>
+												</a>
+											</li>
+											<li class="social-icons-linkedin">
+												<a href="http://www.linkedin.com/" target="_blank" title="Linkedin">
+													<i class="fa fa-linkedin"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col-md-8 col-sm-8">
+										<h2 class="font-weight-semibold text-color-dark mb-xs">John Doe</h2>
+										<p class="custom-font-style-1 font-weight-semibold">Founder of Porto</p>
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at elementum lacus. Fusce luctus urna ac mauris consequat, ac eleifend odio imperdiet. Sed euismod tempor orci, ullamcorper accumsan justo semper eu. Donec venenatis elit et euismod iaculis. Integer vehicula imperdiet metus at convallis. Donec ullamcorper at nunc lobortis ultricies. Nam tincidunt.</p>	
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In imperdiet faucibus congue. Donec at volutpat nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas risus dui.</p>
+										<p class="font-size-sm custom-line-height-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque at purus et auctor. Donec eget risus vitae lacus aliquam porttitor. Morbi pellentesque fermentum ex, nec sagittis augue mollis sit amet. Pellentesque vitae metus porttitor ipsum finibus tincidunt. Praesent sit amet fringilla nisi, in porttitor eros. Vivamus iaculis mattis purus, vitae dictum felis tempor nec. Maecenas eget fermentum turpis. Fusce dignissim leo sit amet aliquet facilisis. Sed erat arcu, ultricies a justo vitae, elementum egestas justo. Nunc bibendum, ex id dapibus fringilla, nisl quam tincidunt ligula, at luctus quam magna nec sem. Suspendisse vitae tempus velit, nec congue sapien.</p>		
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 center">
+							<a href="aerospace-finance-team.html" class="btn btn-borders btn-primary custom-btn-style-2 font-weight-semibold text-color-dark text-uppercase mt-xlg">View More</a>
+						</div>	
+					</div>
+				</div>
+			</section>
+
+			
+
+			<section class="section section-no-border custom-section-spacement-1 background-color-tertiary m-none">
+				<div class="container">
+					<div class="row center">
+						<div class="col-md-12">
+							<h2 class="text-uppercase text-color-dark font-weight-bold">Why choose us?</h2>
+							<p class="text-md text-color-dark mb-xlg">Commited to quality & Connected to nation</p>
+						</div>
+					</div>
+					<div class="row center">
+						<div class="col-md-4 col-sm-4">
+							<img src="img/demos/finance/why-choose-us/why-choose-us-icon-1.png" class="img-responsive custom-center-img-responsive mb-md" alt />
+							<h4 class="text-uppercase font-weight-bold mb-lg">Who we are</h4>
+							<p class="custom-text-color-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae aliquam numquam, aspernatur expedita ipsa molestiae.</p>	
+						</div>
+						<div class="col-md-4 col-sm-4">
+							<img src="img/demos/finance/why-choose-us/why-choose-us-icon-2.png" class="img-responsive custom-center-img-responsive mb-md" alt />
+							<h4 class="text-uppercase font-weight-bold mb-lg">Our Strengths</h4>
+							<p class="custom-text-color-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi incidunt voluptatem, suscipit, dignissimos voluptas sint.</p>	
+						</div>
+						<div class="col-md-4 col-sm-4">
+							<img src="img/demos/finance/why-choose-us/why-choose-us-icon-3.png" class="img-responsive custom-center-img-responsive mb-md" alt />
+							<h4 class="text-uppercase font-weight-bold mb-lg">Our Vision</h4>
+							<p class="custom-text-color-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, libero blanditiis voluptatum ratione at, necessitatibus!</p>	
+						</div>
+					</div>
+				</div>
+			</section>
+
+			-->
+
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 p-none">
+						<section class="section section-no-border match-height custom-section-spacement-1 background-color-primary m-none" style="height: 428.163px;">
+							<div class="row m-none">
+								<div class="col-half-section col-half-section-right">
+									<h2 class="text-uppercase text-color-light font-weight-bold">We call you back</h2>
+									<p class="text-md custom-text-color-2 mb-md">Request a Call</p>
+									<form id="callSendMessage" class="custom-form-style" action="https://www.tirangaaerospace.com/php/contact-form.php" method="POST" novalidate="novalidate">
+										<div class="alert alert-success hidden mt-lg" id="contactFormSuccess">
+											<strong>Success!</strong> Your message has been sent to us.
+										</div>
+
+										<div class="alert alert-danger hidden mt-lg" id="contactFormError">
+											<strong>Error!</strong> There was an error sending your message.
+											<span class="font-size-xs mt-sm display-block" id="contactFormErrorMessage"></span>
+										</div>
+										<div class="form-content">
+											<div class="form-control-custom custom-sm-margin-bottom-2">
+												<i class="icon-user icons"></i>
+												<input type="text" class="form-control" name="name" placeholder="Your Name *" data-msg-required="This field is required." id="name" required="" aria-required="true">
+											</div>
+											<div class="form-control-custom custom-sm-margin-bottom-2">
+												<i class="icon-screen-smartphone icons"></i>
+												<input type="text" class="form-control" name="phone" placeholder="Your Phone *" data-msg-required="This field is required." id="phone" required="" aria-required="true">
+											</div>
+											<div class="form-control-custom custom-sm-margin-bottom-2">
+												<i class="icon-envelope icons"></i>
+												<input type="text" class="form-control" name="email" placeholder="Your Email *" data-msg-required="This field is required." id="email" required="" aria-required="true">
+											</div>
+											<div class="form-control-custom custom-sm-margin-bottom-2">
+												<i class="icon-bubbles icons"></i>
+												<input type="text" class="form-control" name="discuss" placeholder="I would like to discuss *" data-msg-required="This field is required." id="discuss" required="" aria-required="true">
+											</div>
+											<input type="submit" class="btn custom-btn-style-1 custom-btn-padding-1 custom-btn-background-color-1 text-color-light text-uppercase font-weight-semibold outline-none mt-lg" value="Submit">
+										</div>
+									</form>
+								</div>
+							</div>
+						</section>
+					</div>
+					<div class="col-md-6 p-none">
+						<section class="section section-no-border match-height custom-section-spacement-1 background-color-secondary custom-background-image-1 m-none" style="height: 428.163px;">
+							<div class="row m-none">
+								<div class="col-half-section col-half-section-left">
+									<h2 class="text-uppercase text-color-light font-weight-bold">Let's Talk Business</h2>
+									<p class="text-md custom-text-color-2 mb-xlg">Talk to a Specialist</p>
+									<br><br>
+									<a href="tel:+08048905416" class="text-decoration-none">
+										<span class="feature-box custom-feature-box custom-opacity-effect-1 mb-md">
+											<span class="feature-box-info">
+												<label class="font-weight-semibold text-uppercase text-color-light pb-xs">Call us Now</label>
+												<strong class="font-weight-normal custom-text-color-2">080 4890 5416</strong>
+											</span>
+										</span>
+									</a>
+									<a href="mailto:salesindia@tirangaaerospace.com" class="text-decoration-none">
+										<span class="feature-box custom-feature-box custom-opacity-effect-1 mb-md">
+											<span class="feature-box-info">
+												<label class="font-weight-semibold text-uppercase text-color-light pb-xs">Send an Email</label>
+												<strong class="font-weight-normal custom-text-color-2">salesindia@tirangaaerospace.com</strong>
+											</span>
+										</span>
+									</a>
+								</div>
+							</div>
+						</section>
+					</div>
+				</div>
+			</div>
+
+			</div>
+			<footer id="footer" class="custom-footer background-color-light m-none">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-2">
+							<a href="https://www.tirangaaerospace.com/index.html#" class="text-decoration-none">
+								<img src="./Aerosapecc and defence_files/logo.png" width="200" height="100" class="img-responsive" alt="">
+							</a>
+						</div>
+						<div class="col-md-2 col-md-offset-1">
+							<h5 class="text-color-dark font-weight-bold mb-xs">Customer Services</h5>
+							<ul>
+								<li>
+									<a class="custom-text-color-1" href="tel:+918048905416" target="_blank" title="Call Us">
+										+91 80489 05416
+									</a>
+								</li>
+								<li>
+									<a class="custom-text-color-1" href="https://www.tirangaaerospace.com/index.html#" title="Contact Us">
+										Contact Us
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="col-md-2 col-md-offset-1">
+							<h5 class="text-color-dark font-weight-bold mb-xs">Company</h5>
+							<ul>
+								<li>
+									<a class="custom-text-color-1" href="https://www.tirangaaerospace.com/aerospace-about.html" title="About Us">
+										About Us
+									</a>
+								</li>
+								<li>
+									<a class="custom-text-color-1" href="https://www.tirangaaerospace.com/aerospace-products.html" title="Team">
+										Products
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="col-md-2">
+							<h5 class="text-color-dark font-weight-bold mb-xs">Policies</h5>
+							<ul>
+								<li>
+									<a class="custom-text-color-1" href="https://www.tirangaaerospace.com/index.html#" title="Privacy policy">
+										Privacy policy
+									</a>
+								</li>
+								<li>
+									<a class="custom-text-color-1" href="https://www.tirangaaerospace.com/index.html#" title="Terms of Use">
+										Terms of Use
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="col-md-2">
+							<ul class="social-icons custom-social-icons">
+								<li class="social-icons-facebook">
+									<a href="https://www.facebook.com/tirangaaerospace/" target="_blank" title="Facebook">
+										<i class="fa fa-facebook"></i>
+									</a>
+								</li>
+								<li class="social-icons-twitter">
+									<a href="https://twitter.com/TirangaAerospa1" target="_blank" title="Twitter">
+										<i class="fa fa-twitter"></i>
+									</a>
+								</li>
+								<li class="social-icons-linkedin">
+									<a href="https://www.linkedin.com/in/tiranga-aerospace-1791a717a/" target="_blank" title="Twitter">
+										<i class="fa fa-linkedin"></i>
+									</a>
+								</li>
+								<li class="social-icons-instagram">
+									<a href="https://www.instagram.com/tiranga_aerospace" target="_blank" title="Instagram">
+										<i class="fa fa-instagram"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="footer-copyright background-color-light m-none pt-md pb-md">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12 center pt-md">
+								<p class="custom-text-color-1">© Copyright 2019. All Rights Reserved.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+
+		<!-- Vendor -->
+		<script src="./Aerosapecc and defence_files/jquery.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.appear.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.easing.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery-cookie.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/bootstrap.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/common.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.validation.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.easy-pie-chart.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.gmap.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.lazyload.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.isotope.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/owl.carousel.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.magnific-popup.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/vide.min.js.download"></script>
+		
+		<!-- Theme Base, Components and Settings -->
+		<script src="./Aerosapecc and defence_files/theme.js.download"></script>
+		
+		<!-- Current Page Vendor and Views -->
+		<script src="./Aerosapecc and defence_files/jquery.themepunch.tools.min.js.download"></script>
+		<script src="./Aerosapecc and defence_files/jquery.themepunch.revolution.min.js.download"></script>
+
+		<!-- Demo -->
+		<script src="./Aerosapecc and defence_files/demo-finance.js.download"></script>
+		
+		<!-- Theme Custom -->
+		<script src="./Aerosapecc and defence_files/custom.js.download"></script>
+		
+		<!-- Theme Initialization Files -->
+		<script src="./Aerosapecc and defence_files/theme.init.js.download"></script><a class="scroll-to-top hidden-mobile visible" href="https://www.tirangaaerospace.com/index.html#"><i class="fa fa-chevron-up"></i></a>
+
+
+		
+
+		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+			ga('create', 'UA-12345678-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		 -->
+
+
+	
+
+</body></html>

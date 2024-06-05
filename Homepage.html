@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Varsha Technology Services - Leading in Aerospace and Defence Products Distribution">
+    <title>Varsha Technology Services</title>
+    <style>
+        /* Reset CSS */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Global Styles */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            background-image: url('bd3.jpeg'); /* Adjust the path and file name */
+            background-size: cover;
+            background-position: center;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: white;
+            color: rgb(41, 41, 91);
+            padding: 20px 50px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        nav ul {
+            list-style-type: none;
+            display: flex;
+            gap: 100px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: rgb(43, 97, 151);
+            font-size: 1.3rem;
+            transition: color 0.9s ease;
+        }
+
+        nav ul li a:hover {
+            color: black;
+        }
+
+        .logo img {
+            width: 200px; /* Adjusted width */
+            height: auto; /* Maintain aspect ratio */
+        }
+
+        .welcome {
+            padding: 60px 30px;
+            margin: 30px auto;
+            border-radius: 15px;
+            box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+            max-width: 1100px;
+            text-align: center;
+            background-color: #f2f2f2; /* Background color updated */
+        }
+
+        .welcome h2 {
+            font-size: 2.9rem;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .welcome p {
+            font-size: 1.2rem;
+            color: #666;
+            line-height: 1.4;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .distribution {
+    background: #f9f9f9;
+    border-radius: 15px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    margin: 30px auto;
+    padding: 30px;
+    max-width: 1200px;
+}
+
+.distribution h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+.distribution-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust item width */
+    gap: 20px;
+    justify-items: center;
+}
+
+.distribution-item {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(to right, #6c757d, #495057);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.distribution-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.quotes {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.quotes p {
+    font-style: italic;
+    margin-bottom: 10px;
+    color: #495057;
+}
+
+
+.help-button-container {
+    flex: 0 0 30%; /* Adjust width of the button container */
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start; /* Adjust alignment as needed */
+}
+
+/* Add your existing styles for the distribution and button as needed */
+
+
+        .quotes {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .quotes p {
+            font-style: italic;
+            margin-bottom: 10px;
+            color: #495057;
+        }
+
+        footer {
+            background: #222;
+            color: #fff;
+            padding: 40px 20px;
+            text-align: center;
+            box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
+            margin-top: 100px; /* Adjusted margin top */
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .contact-info, .social-links {
+            flex-basis: calc(50% - 20px);
+        }
+
+        .contact-info h3, .social-links h3 {
+            font-size: 1.5rem;
+            color: #fff;
+            margin-bottom: 20px;
+        }
+
+        .contact-info ul, .social-links ul {
+            list-style: none;
+        }
+
+        .contact-info ul li, .social-links ul li {
+            margin-bottom: 10px;
+        }
+
+        .social-links ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1.1rem;
+            transition: color 0.3s ease;
+        }
+
+        .social-links ul li a:hover {
+            color: #adb5bd;
+        }
+
+        .footer-content .copyright {
+            flex-basis: 100%;
+            margin-top: 20px;
+            font-size: 0.9rem;
+        }
+
+        /* Additional Enhancements */
+        header .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        header .logo img {
+            margin-right: 20px;
+        }
+
+        nav ul li {
+            position: relative;
+        }
+
+        nav ul li::after {
+            content: '';
+            display: block;
+            height: 2px;
+            width: 0;
+            background: #ffcc00;
+            transition: width 0.3s ease;
+            position: absolute;
+            bottom: -5px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        nav ul li:hover::after {
+            width: 100%;
+        }
+
+        .distribution ul li::before {
+            content: '✔';
+            display: block;
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+            color: #ffcc00;
+        }
+
+        footer .social-links ul {
+            display: flex;
+            gap: 20px;
+        }
+
+        footer .social-links ul li {
+            display: inline;
+        }
+        footer .social-links
+        ul li a {
+            display: inline-block;
+            transition: transform 0.3s ease;
+        }
+
+        footer .social-links ul li a:hover {
+            transform: scale(1.2);
+        }
+
+      
+        /* Updated CSS for Help Button */
+
+        .help-button {
+            background-color: #007bff; /* Background color */
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .help-button:hover {
+            background-color: #0056b3; /* Updated background color on hover */
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+
+        }
+
+        .help-button-container {
+            position: fixed;
+            top: 500px;
+            right: 15px;
+            z-index: 9999;
+            width: auto; /* Adjusted width */
+        }
+
+        .help-button-highlight {
+            background-color: yellow; /* Highlight color */
+            color: black; /* Text color */
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .help-form {
+            display: none;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .help-form input, .help-form textarea {
+            display: block;
+            width: 80%;
+            margin: 10px auto;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+
+        .help-form button {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 20px;
+            font-size: 1rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .help-form button:hover {
+            background-color: #218838;
+        }
+
+        .help-form-hidden {
+            display: none;
+        }
+        .gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container {
+    flex: 0 0 calc(33.33% - 20px); /* Adjust item width */
+    margin: 10px;
+    overflow: hidden;
+    position: relative;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.container:hover .overlay {
+    opacity: 1;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="new varsha.png" alt="Varsha Technology Services Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="Homepage.html">Home</a></li>
+                <li><a href="Products.html">Products</a></li>
+                <li><a href="Clients.html">Clients</a></li>
+                <li><a href="Aboutus.html">About</a></li>
+                <li><a href="Contactpage.html">Contact Us</a></li>
+                <li><a href="Careers.html">Careers</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        
+       
+        <div class="contact-info" style="text-align: center;">
+            <p class="quote" style="font-size: 1.2rem; color: #333; font-family: Arial, sans-serif; align-items: center;">
+                Interested in receiving a quote? Feel free to reach out 📧<span style="color: #007bff; font-weight: bold; margin-right: 5px;">varshatechnologyservices@gmail.com</span> or 📞<span style="color: #007bff; font-weight: bold;">+91-6363195896</span> for inquiries!
+            </p>
+        </div>
+        
+        
+               
+    </main>
+    
+    <main>
+        <section class="welcome">
+            <h2>Welcome to Varsha Technology Services</h2>
+            <p>We are dedicated to providing exceptional distribution services for Aerospace and Defence Products, RF Components, SATCOM and RADAR Products, and more. Our unwavering commitment to quality and customer satisfaction sets us apart in the industry.</p>
+        </section>
+           
+        
+        <div class="gallery-container">
+            <div class="container">
+                <img src="aeroplane (1).jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">Aerospace and Defence Products</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="rader.jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">RF Components</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="sati.jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">SATCOM and RADAR Products</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="aeroplane (1).jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">Specialized Raw Materials</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="aeroplane (1).jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">Hi-Rel Space Qualified Products</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="aeroplane (1).jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">Wave Guide Products</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="aeroplane (1).jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">Test Measurement & Embedded Products</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="aeroplane (1).jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">Arnold Magnets</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="aeroplane (1).jpg" alt="Avatar" class="image">
+                <div class="overlay">
+                    <div class="text">AMC for Services</div>
+                </div>
+            </div>
+        </div>
+        
+            
+        
+       
+            
+
+        <section class="distribution">
+            <h2>Area of Distribution</h2>
+            <ul class="distribution-list">
+                <li class="distribution-item">Aerospace and Defence Products</li>
+                <li class="distribution-item">RF Components</li>
+                <li class="distribution-item">SATCOM and RADAR Products</li>
+                <li class="distribution-item">Specialized Raw Materials</li>
+                <li class="distribution-item">Hi-Rel Space Qualified Products</li>
+                <li class="distribution-item">Wave Guide Products</li>
+                <li class="distribution-item">Test Measurement & Embedded Products</li>
+                <li class="distribution-item">Medical, Scientific Components</li>
+                <li class="distribution-item">Arnold Magnets</li>
+                <li class="distribution-item">AMC for Services</li>
+            </ul>
+            <div class="quotes">
+                <p>"Distribution is the lifeline of any supply chain, connecting products with markets and bridging the gap between demand and supply." - Unknown</p>
+                <p>"Efficient distribution doesn't just move products; it moves industries forward, fueling progress and innovation." - Unknown</p>
+                <p>"In the realm of distribution, success is not measured by what's delivered, but by how it's delivered - with precision, reliability, and excellence." - Unknown</p>
+            </div>
+        </section>
+        
+
+       
+             
+          
+        
+
+
+
+    </main>
+
+    <footer style="background-color: #222; color: #fff; padding: 40px 20px; text-align: center;">
+        <div class="footer-content" style="max-width: 1200px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between;">
+            <div class="contact-info" style="flex-basis: 100%; margin-bottom: 30px;">
+                <h3 style="font-size: 1.5rem; margin-bottom: 20px;">Contact Information</h3>
+                <ul style="list-style: none; padding-left: 0;">
+                    <li style="margin-bottom: 10px;">📧 Email: varshatechnologyservices@gmail.com</li>
+                    <li style="margin-bottom: 10px;">📞 Phone: +91-6363195896</li>
+                    <li>🏢 Address: #14, 6th Main Road, Meenakshi Nagar, Bengaluru, Karnataka, Pin code-560079</li>
+                </ul>
+            </div>
+            <div class="social-links" style="flex-basis: 100%; margin-bottom: 30px;">
+                <h3 style="font-size: 1.5rem; margin-bottom: 20px;">Follow Us</h3>
+                <ul style="list-style: none; padding-left: 0; display: flex; justify-content: center;">
+                    <li style="margin-right: 20px;"><a href="#" style="color: #fff; text-decoration: none;">Facebook</a></li>
+                    <li style="margin-right: 20px;"><a href="#" style="color: #fff; text-decoration: none;">Twitter</a></li>
+                    <li><a href="#" style="color: #fff; text-decoration: none;">LinkedIn</a></li>
+                </ul>
+            </div>
+            <div class="copyright" style="flex-basis: 100%;">
+                &copy; 2024 Varsha Technology Services. All rights reserved.
+            </div>
+        </div>
+    </footer>
+    
+</body>
+</html>

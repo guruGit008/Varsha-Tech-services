@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore career opportunities at Varsha Technology Services and join our talented team.">
+    <title>Careers - Varsha Technology Services</title>
+   <style>
+    /* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-image: url('bd3.jpeg'); /* Adjust the path and file name */
+    background-size: cover;
+    background-position: center;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: white;
+    color: rgb(41, 41, 91);
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 100px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(43, 97, 151);
+    font-size: 1.3rem;
+    transition: color 0.9s ease;
+}
+
+nav ul li a:hover {
+    color: black;
+}
+
+.logo img {
+    width: 200px; /* Adjusted width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.welcome {
+    padding: 60px 30px;
+    margin: 30px auto;
+    border-radius: 15px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    max-width: 1100px;
+    text-align: center;
+    background-color: #f2f2f2; /* Background color updated */
+}
+
+.welcome h2 {
+    font-size: 2.9rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.welcome p {
+    font-size: 1.2rem;
+    color: #666;
+    line-height: 1.4;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.why-join, .job-openings {
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    padding: 60px 20px;
+    margin: 30px auto;
+    text-align: center;
+    max-width: 1100px;
+}
+
+.why-join h2, .job-openings h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.why-join ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.2rem;
+    color: #666;
+    line-height: 1.4;
+}
+
+.why-join ul li {
+    margin-bottom: 10px;
+}
+
+.job-listing {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px 0;
+    text-align: left;
+}
+
+.job-listing h3 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.job-listing p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.job-listing ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+.job-listing ul li {
+    font-size: 1rem;
+    color: #666;
+}
+
+.job-listing a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: rgb(43, 97, 151);
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.job-listing a:hover {
+    background-color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1100px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.footer-content h3 {
+    margin-bottom: 10px;
+}
+
+.footer-content ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-content ul li {
+    margin-bottom: 5px;
+}
+
+.footer-content ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-content ul li a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    width: 100%;
+    text-align: center;
+    
+    margin-top: 20px;
+}
+.careers {
+    background: #fff; /* Background color */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    padding: 60px 20px; /* Padding */
+    margin: 30px auto; /* Margin */
+    text-align: center; /* Center align text */
+    max-width: 1100px; /* Maximum width */
+    font-size: 1.2rem; /* Font size */
+}
+
+.careers h2 {
+    font-size: 2rem; /* Font size for the heading */
+    color: #333; /* Text color */
+    margin-bottom: 20px; /* Bottom margin */
+}
+
+.careers ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+    color: #666; /* Text color */
+    line-height: 1.4; /* Line height */
+    text-align: left; /* Align text to the left */
+}
+
+.careers ul li {
+    margin-bottom: 10px; /* Bottom margin for each list item */
+}
+.careers p {
+    /* Other styles */
+    color: #333; /* Default text color */
+    line-height: 1.6; /* Adjust line height if needed */
+}
+
+.careers p span.highlight-email {
+    background-color: yellow; /* Highlight color */
+    font-weight: bold; /* Make the text bold */
+}
+
+
+   </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="new varsha.png" alt="Varsha Technology Services Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="Homepage.html">Home</a></li>
+                <li><a href="Products.html">Products</a></li>
+                <li><a href="Clients.html">Clients</a></li>
+                <li><a href="Aboutus.html">About</a></li>
+                <li><a href="Contactpage.html">Contact Us</a></li>
+                <li><a href="Careers.html">Careers</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="welcome">
+            <h2>Careers at Varsha Technology Services</h2>
+            <p>Join our team of passionate professionals and help us drive innovation in aerospace, defense, telecommunications, government agencies, and research and development. Explore our current openings and start your journey with us.</p>
+        </section>
+
+        <section class="why-join">
+            <h2>Why Join Us?</h2>
+            <ul>
+                <li>Innovative and Collaborative Work Environment</li>
+                <li>Opportunities for Professional Growth and Development</li>
+                <li>Competitive Compensation and Benefits</li>
+                <li>Work on Cutting-edge Projects and Technologies</li>
+                <li>Inclusive and Diverse Workplace Culture</li>
+            </ul>
+        </section>
+
+        <section class="careers">
+            <h2>Careers</h2>
+            <p>Varsha Technology Services welcomes dynamic and enthusiastic individuals to lead services in the Defense and Space sectors of India. In this role, you will learn and manage the entire operation cycle, including sourcing, purchasing, invoicing, receiving, and shipping. Technical expertise in electronics is a valuable asset. 
+                <p>...Please note that phone calls, walk-ins, or faxes are not supported. We encourage you to send your resume along with a self-introduction outlining your goals and highlighting attributes that go beyond your resume to <span class="highlight-email">varshatechnologyservices@gmail.com</span>.</p>
+
+        </section>
+        
+    </main>
+
+    <footer style="background-color: #222; color: #fff; padding: 40px 20px; text-align: center;">
+        <div class="footer-content" style="max-width: 1200px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between;">
+            <div class="contact-info" style="flex-basis: 100%; margin-bottom: 30px;">
+                <h3 style="font-size: 1.5rem; margin-bottom: 20px;">Contact Information</h3>
+                <ul style="list-style: none; padding-left: 0;">
+                    <li style="margin-bottom: 10px;">📧 Email: varshatechnologyservices@gmail.com</li>
+                    <li style="margin-bottom: 10px;">📞 Phone: +91-6363195896</li>
+                    <li>🏢 Address: #14, 6th Main Road, Meenakshi Nagar, Bengaluru, Karnataka, Pin code-560079</li>
+                </ul>
+            </div>
+            <div class="social-links" style="flex-basis: 100%; margin-bottom: 30px;">
+                <h3 style="font-size: 1.5rem; margin-bottom: 20px;">Follow Us</h3>
+                <ul style="list-style: none; padding-left: 0; display: flex; justify-content: center;">
+                    <li style="margin-right: 20px;"><a href="#" style="color: #fff; text-decoration: none;">Facebook</a></li>
+                    <li style="margin-right: 20px;"><a href="#" style="color: #fff; text-decoration: none;">Twitter</a></li>
+                    <li><a href="#" style="color: #fff; text-decoration: none;">LinkedIn</a></li>
+                </ul>
+            </div>
+            <div class="copyright" style="flex-basis: 100%;">
+                &copy; 2024 Varsha Technology Services. All rights reserved.
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
